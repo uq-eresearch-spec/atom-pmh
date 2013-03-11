@@ -49,13 +49,13 @@ Instructions
 
 The specification is written in [Markdown] (see files under the _posts
 subdirectory) and is converted to HTML using [Jekyll]. The main (and
-only) GitHub branch is "gh-pages" because the purpose of this project
-is to update the GitHub project pages.
+only) GitHub branch is "gh-pages" because the specification is automatically
+published as the project's GitHub project pages.
 
 To update the specification, create a new file under `_posts`
 containing the new version. Do not modify the existing posts. Push the
 changes to GitHub and (after a short delay) it will automatically
-update the project pages at <http://atom-pmh.github.com>.
+update the project pages at <http://uq-eresearch-spec.github.com/atom-pmh>.
 
 [Markdown]: <http://daringfireball.net/projects/markdown/>
 
