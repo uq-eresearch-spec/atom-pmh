@@ -1,0 +1,40 @@
+/* CSS for specifications generated from Markdown. */
+
+body {
+  margin : 0;
+  padding : 4ex 3em;
+  font-family : sans-serif;
+  color : black;
+  background : white;
+}
+
+h1,
+h2,
+h3 {
+  color : #005A9C
+}
+
+h1 { font-size: 200%; font-weight: normal; }
+h2 { font-size: 170%; font-weight: bold; }
+h3 { font-size: 120%; font-weight: normal; }
+h4 { font-size: 100%; font-weight: bold; }
+h5 { font-size: 100%; font-weight: normal; font-style: italic; }
+
+h2#abstract,
+h2#introduction {
+  border-top: thin solid lightgray;
+  padding-top: 1ex;
+}
+
+dt { font-weight: bold; }
+
+pre {
+  background-color: #d5dee3;
+  border-top-width: 4px;
+  border-top-style: double;
+  border-top-color: #d3d3d3;
+  border-bottom-width: 4px;
+  border-bottom-style: double;
+  border-bottom-color: #d3d3d3;
+  padding: 0.5em;
+}
