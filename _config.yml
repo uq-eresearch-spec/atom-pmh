@@ -1,4 +1,3 @@
 exclude:    Gemfile, Gemfile.lock, .gitignore
 permalink:  /:title-:year:month:day.html
-url:        http://atom-pmh.github.com
-title:	    Atom Feed Protocol for Metadata Harvesting (Atom-PMH)
+url:        http://uq-eresearch-spec.github.com/atom-pmh

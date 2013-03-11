@@ -54,8 +54,8 @@ published as the project's GitHub project pages.
 
 To update the specification, create a new file under `_posts`
 containing the new version. Do not modify the existing posts. Push the
-changes to GitHub and (after a short delay) it will automatically
-update the project pages at <http://uq-eresearch-spec.github.com/atom-pmh>.
+changes to GitHub and it will automatically update the project pages
+at <http://uq-eresearch-spec.github.com/atom-pmh>.
 
 [Markdown]: <http://daringfireball.net/projects/markdown/>
 
