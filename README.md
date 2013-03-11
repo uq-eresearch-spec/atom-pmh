@@ -7,9 +7,13 @@ Introduction
 The _Atom Feed Protocol for Metadata Harvesting_ (Atom-PMH) is a
 protocol for harvesting metadata.
 
-It performs a similar function to OAI-PMH, except it uses Atom 1.0 and
+It performs a similar function to [OAI-PMH], except it uses Atom 1.0 and
 is a RESTful protocol. This gives it performance and implementation
 advantages over OAI-PMH.
+
+This project contains the specification for Atom-PMH.
+
+[OAI-PMH]: <http://www.openarchives.org/pmh/>
 
 Background
 ----------
@@ -39,6 +43,23 @@ Note: it is important to recognise that Atom 1.0, Atom-RDC and AtomPub
 are designed for very different purposes and perform very different
 functions. Despite the similar names they are very different
 mechanisms.
+
+Instructions
+------------
+
+The specification is written in [Markdown] (see files under the _posts
+subdirectory) and is converted to HTML using [Jekyll]. The main (and
+only) GitHub branch is "gh-pages" because the purpose of this project
+is to update the GitHub project pages.
+
+To update the specification, create a new file under `_posts`
+containing the new version. Do not modify the existing posts. Push the
+changes to GitHub and (after a short delay) it will automatically
+update the project pages at <http://atom-pmh.github.com>.
+
+[Markdown]: <http://daringfireball.net/projects/markdown/>
+
+[Jekyll]: <https://github.com/mojombo/jekyll>
 
 Contact
 -------
