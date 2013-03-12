@@ -21,7 +21,7 @@ div#nav {
 }
 div#nav p {
  width: 960px;
- margin: 1ex auto;
+ margin: 1ex 20px;
  font-size: x-small;
 }
 div#nav p#eResearch {
