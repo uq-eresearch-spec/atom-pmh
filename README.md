@@ -55,17 +55,24 @@ published as the project's GitHub project pages.
 To update the specification, create a new file under `_posts`
 containing the new version. Do not modify the existing posts. Push the
 changes to GitHub and it will automatically update the project pages
-at <http://uq-eresearch-spec.github.com/atom-pmh>.
+at <https://uq-eresearch-spec.github.com/atom-pmh>.
 
-[Markdown]: <http://daringfireball.net/projects/markdown/>
+[Markdown]: <https://daringfireball.net/projects/markdown/>
 
-[Jekyll]: <https://github.com/mojombo/jekyll>
+[Jekyll]: <https://jekyllrb.com/>
 
 Contact
 -------
 
-For more information, please contact [Hoylen Sue](mailto:hoylen@hoylen.com)
-or [The University of Queensland eResearch Lab](http://www.itee.uq.edu.au/eresearch/).
+For more information, please contact [Hoylen Sue](mailto:hoylen@hoylen.com).
+
+This work was done at
+[The University of Queensland](https://www.uq.edu.au/) (UQ)
+[eResearch Lab](https://www.itee.uq.edu.au/eresearch/), which
+was a part of the
+[School of Information Technology and Electrical Engineering)(https://www.itee.uq.edu.au/).
+
+In 2018, the _eResearch Lab_ was disbanded.
 
 Acknowledgements
 ----------------
@@ -75,3 +82,8 @@ This project is supported by the Australian National Data Service
 Government through the National Collaborative Research Infrastructure
 Strategy Program and the Education Investment Fund (EIF) Super Science
 Initiative.
+
+In 2018, ANDS was merged with Nectar and RDS to become the
+_Australian Research Data Commons_
+([ARDC](https://ardc.edu.au/)).
+
