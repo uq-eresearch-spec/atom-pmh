@@ -1,3 +1,6 @@
-exclude:    Gemfile, Gemfile.lock, .gitignore
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - .gitignore
 permalink:  /:title-:year:month:day.html
 url:        http://uq-eresearch-spec.github.com/atom-pmh
