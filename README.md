@@ -70,7 +70,7 @@ This work was done at
 [The University of Queensland](https://www.uq.edu.au/) (UQ)
 [eResearch Lab](https://www.itee.uq.edu.au/eresearch/), which
 was a part of the
-[School of Information Technology and Electrical Engineering)(https://www.itee.uq.edu.au/).
+_School of Information Technology and Electrical Engineering_ ([ITEE](https://www.itee.uq.edu.au/)).
 
 In 2018, the _eResearch Lab_ was disbanded.
 
